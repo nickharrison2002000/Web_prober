@@ -2,4 +2,4 @@
 *.env
 secrets/*
 credentials.txt
-aws-credentials.txt 
+aws-credentials.txt
